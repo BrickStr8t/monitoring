@@ -9,7 +9,7 @@ sites:
     url: https://www.estim8.io
 
 status-website:
-  cname: monitoring.estim8.io
+  cname: up.estim8.io
   theme: night
   name: Monitoring
   introTitle: "**Brickstreet**, estimations the right way."
