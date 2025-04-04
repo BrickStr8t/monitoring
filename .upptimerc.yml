@@ -6,10 +6,10 @@ assignees:
 
 sites:
   - name: Estimeight
-    url: https://www.estim8.io
+    url: https://app.brickstreet.ch
 
 status-website:
-  cname: monitoring.estim8.io
+  cname: up.brickstreet.ch
   theme: night
   name: Monitoring
   introTitle: "**Brickstreet**, estimations the right way."
@@ -18,4 +18,4 @@ status-website:
     - title: Status
       href: /
     - title: Site
-      href: https://www.estim8.io
+      href: https://app.brickstreet.ch
